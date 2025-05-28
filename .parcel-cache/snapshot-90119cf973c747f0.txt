@@ -7,7 +7,7 @@
 66C:\Users\Usuario\precios-tq\node_modules\web-vitals\dist\getCLS.js133710310069408946 0
 70C:\Users\Usuario\precios-tq\node_modules\@parcel\core\lib\constants.js133710310092739978 0
 113C:\Users\Usuario\precios-tq\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\generator\create.js133710310084525315 0
-43C:\Users\Usuario\precios-tq\dist\index.html133807146619059450 0
+43C:\Users\Usuario\precios-tq\dist\index.html133928936195085993 0
 98C:\Users\Usuario\precios-tq\node_modules\csso\node_modules\css-tree\lib\syntax\node\Parentheses.js133710310099091782 0
 51C:\Users\Usuario\precios-tq\node_modules\agent-base133710310076811721 1
 48C:\Users\Usuario\precios-tq\node_modules\@mapbox133710310053135882 1
@@ -31,14 +31,14 @@
 60C:\Users\Usuario\precios-tq\node_modules\uri-js\package.json133710310083018432 0
 65C:\Users\Usuario\precios-tq\node_modules\css-tree\cjs\version.cjs133710310096416583 0
 82C:\Users\Usuario\precios-tq\node_modules\@nodelib\fs.scandir\out\providers\sync.js133710310079897783 0
-31C:\Users\Usuario\precios-tq\src133807146032868273 1
+31C:\Users\Usuario\precios-tq\src133928923406833231 1
 55C:\Users\Usuario\precios-tq\node_modules\balanced-match133710310068527903 1
 83C:\Users\Usuario\precios-tq\node_modules\@parcel\utils\test\input\config\config.cjs133710310078588143 0
 78C:\Users\Usuario\precios-tq\node_modules\@swc\helpers\src\_super_prop_base.mjs133710310103310105 0
 81C:\Users\Usuario\precios-tq\node_modules\type-fest\source\fixed-length-array.d.ts133710310081603598 0
 66C:\Users\Usuario\precios-tq\node_modules\@parcel\optimizer-css\src133710310078282581 1
 81C:\Users\Usuario\precios-tq\node_modules\posthtml-parser\dist\location-tracker.js133710310068321399 0
-51C:\Users\Usuario\precios-tq\dist\video.a7197634.mp4133807146622188356 0
+51C:\Users\Usuario\precios-tq\dist\video.a7197634.mp4133928936197975448 0
 70C:\Users\Usuario\precios-tq\node_modules\source-map\lib\source-node.js133710310080688335 0
 53C:\Users\Usuario\precios-tq\node_modules\@vercel\next133710310081633524 1
 65C:\Users\Usuario\precios-tq\node_modules\fs.realpath\package.json133710310064940624 0
@@ -66,7 +66,7 @@
 65C:\Users\Usuario\precios-tq\node_modules\semver\functions\sort.js133710310090400329 0
 94C:\Users\Usuario\precios-tq\node_modules\csso\node_modules\css-tree\lib\syntax\atrule\index.js133710310098429298 0
 62C:\Users\Usuario\precios-tq\node_modules\human-signals\LICENSE133710310064970644 0
-32C:\Users\Usuario\precios-tq\dist133807146622198370 1
+32C:\Users\Usuario\precios-tq\dist133928936197989507 1
 48C:\Users\Usuario\precios-tq\node_modules\timsort133710310076841750 1
 76C:\Users\Usuario\precios-tq\node_modules\@swc\helpers\esm\_inherits_loose.js133710310101028711 0
 79C:\Users\Usuario\precios-tq\node_modules\@parcel\core\lib\public\Environment.js133710310093735108 0
@@ -95,7 +95,7 @@
 58C:\Users\Usuario\precios-tq\node_modules\mimic-fn\index.js133710310066784570 0
 52C:\Users\Usuario\precios-tq\node_modules\@jridgewell133710310053149287 1
 72C:\Users\Usuario\precios-tq\node_modules\@swc\helpers\esm\_call_super.js133710310100293545 0
-38C:\Users\Usuario\precios-tq\src\assets133807146430888405 1
+38C:\Users\Usuario\precios-tq\src\assets133928936010265188 1
 67C:\Users\Usuario\precios-tq\node_modules\csso\cjs\replace\color.cjs133710310081653528 0
 65C:\Users\Usuario\precios-tq\node_modules\signal-exit\package.json133710310078508137 0
 111C:\Users\Usuario\precios-tq\node_modules\@vercel\static-config\node_modules\ajv\dist\vocabularies\core\index.js133710310090671125 0
@@ -110,7 +110,7 @@
 64C:\Users\Usuario\precios-tq\node_modules\xdg-app-paths\readme.md133710310068281459 0
 103C:\Users\Usuario\precios-tq\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeDesc.js133710310090099193 0
 93C:\Users\Usuario\precios-tq\node_modules\@swc\helpers\esm\_class_private_field_destructure.js133710310100493473 0
-42C:\Users\Usuario\precios-tq\src\index.html133807146032868273 0
+42C:\Users\Usuario\precios-tq\src\index.html133928923406833231 0
 65C:\Users\Usuario\precios-tq\node_modules\uuid\lib\sha1-browser.js133710310083028381 0
 59C:\Users\Usuario\precios-tq\node_modules\tslib\tslib.es6.js133710310071075983 0
 61C:\Users\Usuario\precios-tq\node_modules\htmlnano\index.d.mts133710310095289863 0
@@ -136,7 +136,7 @@
 72C:\Users\Usuario\precios-tq\node_modules\webidl-conversions\package.json133710310064810507 0
 81C:\Users\Usuario\precios-tq\node_modules\gauge\node_modules\signal-exit\README.md133710310068116209 0
 78C:\Users\Usuario\precios-tq\node_modules\ts-node\dist\cjs-resolve-hooks.js.map133710310092984691 0
-48C:\Users\Usuario\precios-tq\src\assets\video.mp4133807120044801920 0
+48C:\Users\Usuario\precios-tq\src\assets\video.mp4133928935886200911 0
 78C:\Users\Usuario\precios-tq\node_modules\cosmiconfig\dist\getPropertyByPath.js133710310078997012 0
 52C:\Users\Usuario\precios-tq\node_modules\cosmiconfig133710310089929130 1
 65C:\Users\Usuario\precios-tq\node_modules\graceful-fs\package.json133710310070725992 0
